@@ -1,0 +1,41 @@
+.activeTest {
+	background-color: #2ab7a9 !important;
+	border: 1px solid #2ab7a9 !important;
+	padding: 5px 10px;
+	color: aliceblue !important;
+}
+
+button {
+	font-size: 1.5em;
+	border: 1px solid lightcoral;
+	color: black;
+	all: unset;
+}
+
+button.btnCustom-default {
+	background: unset;
+	border: 1px solid;
+	padding: 2px 12px;
+}
+button.btnCustom-default:focus {
+	background: unset;
+}
+/* .btnCustom-default.disabled,
+.btnCustom-default[disabled],
+fieldset[disabled] .btnCustom-default,
+.btnCustom-default.disabled:hover,
+.btnCustom-default[disabled]:hover,
+fieldset[disabled] .btnCustom-default:hover,
+.btnCustom-default.disabled:focus,
+.btnCustom-default[disabled]:focus,
+fieldset[disabled] .btnCustom-default:focus,
+.btnCustom-default.disabled.focus,
+.btnCustom-default[disabled].focus,
+fieldset[disabled] .btnCustom-default.focus,
+.btnCustom-default.disabled:active,
+.btnCustom-default[disabled]:active,
+fieldset[disabled] .btnCustom-default:active,
+.btnCustom-default.disabled.active,
+.btnCustom-default[disabled].active,
+fieldset[disabled] .btnCustom-default.active {
+} */
